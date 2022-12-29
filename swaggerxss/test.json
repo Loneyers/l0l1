@@ -1,0 +1,8 @@
+{
+    "urls": [
+        {
+            "url": "https://loneyers.github.io/l0l1/swaggerxss/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
